@@ -1,3 +1,9 @@
+div {
+    display: flex;
+}
+div > p:first-child
+{
+    flex-direction: column;
 p{
     background-color: purple;
 }
