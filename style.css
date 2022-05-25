@@ -1,0 +1,8 @@
+div {
+    display: flex;
+}
+
+div > p:first-child
+{
+    flex-direction: column;
+}
